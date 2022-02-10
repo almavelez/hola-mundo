@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer repositorio de prueba
+# Hola Mundo
+Mi primer repositorio, branches "otros-cambios"
 
 Autor: Alma Velez
 
